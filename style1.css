@@ -1,0 +1,83 @@
+
+
+h1 {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+ 
+}
+.link {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 30.52px;
+  color: teal;
+  }
+  .link:hover {
+    color: tomato;
+  }
+}
+h3 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16.41px;
+  color: #757575;
+}
+.tekst {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
+}
+.odnośnik {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16.41px;
+}
+h5 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18.75px;
+  color: #212121;
+}
+h6 {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18.75px;
+  color: #212121;
+}
+.wrapper {
+  background: #2f303a;
+  color: #ffffff;
+}
+
+.danekontaktowe {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.usługa {
+
+}
+
+.loremipsum {
+  background-color: #E5E5E5;
+}
+
+.naszzespół {
+  background-color: #F5F4FA;
+}
